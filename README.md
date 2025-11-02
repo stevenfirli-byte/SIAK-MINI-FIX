@@ -1,7 +1,6 @@
 # SIAK-MINI-FIX
-    refs #1 test: integrasi GitHub–Taiga untuk US-001
+     refs task 3 test: integrasi Taiga manual check
 
-    closes #1 docs: finalize implementasi US-001
 
 
 
