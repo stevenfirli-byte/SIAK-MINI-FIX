@@ -1,8 +1,1 @@
-# SIAK-MINI-FIX
-    refs #3 test: integrasi fallback
-
-
-
-
-
-
+ refs task #3 test: percobaan integrasi
