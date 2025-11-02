@@ -1,7 +1,7 @@
 # SIAK-MINI-FIX
-    refs #3 test: integrasi ke task T-001
-    
-    closes task #3 docs: finalize README
+    refs #1 test: integrasi GitHub–Taiga untuk US-001
+
+    closes #1 docs: finalize implementasi US-001
 
 
 
